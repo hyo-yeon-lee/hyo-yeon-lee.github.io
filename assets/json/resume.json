@@ -6,30 +6,48 @@
     "email": "fw22912@bristol.ac.uk",
     "phone": "(44) 7385 584711",
     "url": "https://github.com/fw22912/fw22912.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Final Year BSc Computer Science Student in University of Bristol",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "75 Woodland Rd",
+      "postalCode": "BS8 1UB",
+      "city": "Bristol",
+      "countryCode": "UK",
+      "region": "Bristol"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "hyoyeonlee",
+        "url": "https://www.linkedin.com/in/hyoyeon-lee/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Faculty of Engineering, University of Bristol",
+      "position": "Research Assistant",
+      "url": "https://github.com/fw22912/Correctness-guided-Code-Generation-with-LLM",
+      "startDate": "2024-06-10",
+      "endDate": "2024-07-28",
+      "summary": "Worked as a Faculty-Funded Research Assistant under the supervision of Dr. Christina David.",
+      "highlights": ["Developed automated software that verifies the correctness of generated proof harness functions of a given C program from LLMs using CBMC until valid results are obtained."]
+    },
+    {
+      "name": "School of Computer Science, University of Bristol",
+      "position": "Graduate Teacher Level 1",
+      "url": "https://cs-uob.github.io",
+      "startDate": "2023-09-25",
+      "endDate": "current",
+      "summary": "Supported students by leading problem classes and delivered over 175 hours of teaching.",
+      "highlights": ["Mathematics in Computer Science A (2024/25)", "Mathematics in Computer Science B (2023/24, 2024/25), Algorithms and Data (2024/25)"]
+    },
+    {
+      "name": "School of Computer Science, University of Bristol",
+      "position": "Demonstrator",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2024-06-10",
+      "endDate": "2024-07-28",
+      "summary": "Worked as a faculty-funded research assistant under the supervision of Dr. Christina David.",
       "highlights": ["Relativity"]
     }
   ],
