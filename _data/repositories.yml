@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - fw22912
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - fw22912/Language-Evolution-Modelling-with-ILM/al-folio
+  - fw22912/Correctness-guided-Code-Generation-with-LLM
+  - fw22912/COMS30083
+  - fw22912/AutomatedSocialMedia
+  - fw22912/GameJam2024
+  - fw22912/CG2024
