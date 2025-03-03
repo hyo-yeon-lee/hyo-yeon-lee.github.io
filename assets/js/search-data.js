@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "You can download my CV by clicking the pdf icon.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -437,8 +437,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-am-working-on-my-dissertation-project-on-language-evolution-with-ilms",
+          title: 'I am working on my dissertation project on language evolution with ILMs.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -505,13 +505,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/hyoyeon-lee", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
