@@ -2,7 +2,7 @@
   "basics": {
     "name": "Hyoyeon Lee",
     "label": "Computer Science",
-    "image": "Photo.jpeg",
+    "image": "",
     "email": "fw22912@bristol.ac.uk",
     "url": "https://fw22912.github.io",
     "summary": "Final Year BSc Computer Science Student in University of Bristol",
@@ -37,7 +37,7 @@
       "url": "https://cs-uob.github.io",
       "startDate": "2023-09-25",
       "endDate": "current",
-      "summary": "Supported students by leading problem classes and delivered over 190 hours of teaching.",
+      "summary": "Supported students by leading problem classes and delivered over 200 hours of teaching.",
       "highlights": ["Mathematics in Computer Science A (2024/25)", "Mathematics in Computer Science B (2023/24, 2024/25)",  "Algorithms and Data (2024/25)"]
     },
     {
@@ -46,7 +46,7 @@
       "url": "https://cs-uob.github.io",
       "startDate": "2024-09-16",
       "endDate": "current",
-      "summary": "Supported students by leading problem classes and delivered over 190 hours of teaching.",
+      "summary": "Supported students by leading problem classes and delivered over 200 hours of teaching.",
       "highlights": ["Programming Languages and Computation (2024/25)"]
     }
   ],
@@ -59,7 +59,7 @@
       "studyType": "BSc",
       "startDate": "2022-09-19",
       "endDate": "2025-07-15",
-      "score": "First Class Honours",
+      "score": "First Class Honours (Expected)",
       "courses": ["Machine Learning, Image Processing and Computer Vision, Types and Lambda Calculus, Applied Data Science, Computer Graphics, Algorithms I/II"]
     }
   ],
