@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-15 07:59:00-0400
+date: 2025-07-15 
 inline: true
 related_posts: false
 ---
 
-I am working on my dissertation project on language evolution with ILMs.
+I graduated the University of Bristol with a First Class Honours in BSc Computer Science.

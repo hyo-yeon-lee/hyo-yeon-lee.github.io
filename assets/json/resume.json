@@ -3,9 +3,9 @@
     "name": "Hyoyeon Lee",
     "label": "Computer Science",
     "image": "",
-    "email": "fw22912@bristol.ac.uk",
+    "email": "hyoyeon.lee@outlook.com",
     "url": "https://fw22912.github.io",
-    "summary": "Final Year BSc Computer Science Student in University of Bristol",
+    "summary": "First Class Graduate in BSc Computer Science Student in University of Bristol",
     "location": {
       "address": "75 Woodland Rd",
       "postalCode": "BS8 1UB",
@@ -23,6 +23,14 @@
   },
   "work": [
     {
+      "name": "School of Computer Science, University of Bristol",
+      "position": "Research Support Assistant",
+      "startDate": "2025-06-10",
+      "endDate": "2024-07-28",
+      "summary": "Worked as a Faculty-Funded Research Assistant under the supervision of Dr. Christina David.",
+      "highlights": ["Developed automated software that verifies the correctness of generated proof harness functions of a given C program from LLMs using CBMC until valid results are obtained."]
+    },
+    {
       "name": "Faculty of Engineering, University of Bristol",
       "position": "Research Assistant",
       "url": "https://github.com/fw22912/Correctness-guided-Code-Generation-with-LLM",
@@ -36,7 +44,7 @@
       "position": "Graduate Teacher Level 1",
       "url": "https://cs-uob.github.io",
       "startDate": "2023-09-25",
-      "endDate": "current",
+      "endDate": "2025-05-09",
       "summary": "Supported students by leading problem classes and delivered over 200 hours of teaching.",
       "highlights": ["Mathematics in Computer Science A (2024/25)", "Mathematics in Computer Science B (2023/24, 2024/25)",  "Algorithms and Data (2024/25)"]
     },
@@ -45,7 +53,7 @@
       "position": "Demonstrator",
       "url": "https://cs-uob.github.io",
       "startDate": "2024-09-16",
-      "endDate": "current",
+      "endDate": "2025-05-09",
       "summary": "Supported students by leading problem classes and delivered over 200 hours of teaching.",
       "highlights": ["Programming Languages and Computation (2024/25)"]
     }
@@ -59,7 +67,7 @@
       "studyType": "BSc",
       "startDate": "2022-09-19",
       "endDate": "2025-07-15",
-      "score": "First Class Honours (Expected)",
+      "score": "First Class Honours",
       "courses": ["Machine Learning, Image Processing and Computer Vision, Types and Lambda Calculus, Applied Data Science, Computer Graphics, Algorithms I/II"]
     }
   ],
@@ -86,25 +94,11 @@
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Technologies",
       "level": "Proficient (P), Intermediate (I), Exposure (E)",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -112,7 +106,7 @@
         "GoLang",
         "Java",
         "C/C++",
-        "SQL"
+        ""
       ]
     },
     {
