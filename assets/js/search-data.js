@@ -429,16 +429,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-started-working-as-a-research-support-assistant-at-the-university-of-bristol",
+          title: 'I started working as a Research Support Assistant at the University of Bristol....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-graduated-the-university-of-bristol-with-a-first-class-honours-in-bsc-computer-science",
+          title: 'I graduated the University of Bristol with a First Class Honours in BSc...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-working-on-my-dissertation-project-on-language-evolution-with-ilms",
-          title: 'I am working on my dissertation project on language evolution with ILMs.',
+          section: "News",},{id: "news-i-started-working-as-a-research-assistant-intern-in-sony-computer-science-labs-in-kyoto-japan",
+          title: 'I started working as a Research Assistant Intern in Sony Computer Science Labs...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
