@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>〒600-8086</p>
-    <p>Shimogyo Ward, Hontorocho, １３−1</p>
+    <p>Shimogyo Ward, Hontorocho</p>
     <p>Kyoto, Japan</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
