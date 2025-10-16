@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-26 
+date: 2025-08-01
 inline: true
 related_posts: false
 ---
 
-I started working as a Research Support Assistant at the University of Bristol.
+I started working as a Research Assistant Intern in Sony Computer Science Labs in Kyoto, Japan.
