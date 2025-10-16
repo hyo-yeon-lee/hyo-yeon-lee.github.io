@@ -21,10 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 0 # leave blank to include all the blog posts
+#latest_posts:
+#  enabled: false
+#  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 0 # leave blank to include all the blog posts
 ---
 
 I am a First-Class Computer Science graduate from the University of Bristol with a strong interest in language evolution, computational cognition/neuroscience, and machine learning. I am currently working as a Research Assistant Intern at Sony Computer Science Laboratories in Kyoto, contributing to on an open-ended evolution experiment project. Previously, I worked as a Research Support Assistant at the University of Bristol on a study investigating the evolution of language through ILM-paradigm human experiments.
