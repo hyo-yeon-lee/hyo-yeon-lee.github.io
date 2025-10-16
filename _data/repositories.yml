@@ -1,12 +1,12 @@
 github_users:
-  - fw22912
+  - hyo-yeon-lee
 
 repo_description_lines_max: 2
 
 github_repos:
-  - fw22912/Language-Evolution-Modelling-with-ILM/al-folio
-  - fw22912/Correctness-guided-Code-Generation-with-LLM
-  - fw22912/COMS30083
-  - fw22912/AutomatedSocialMedia
-  - fw22912/GameJam2024
-  - fw22912/CG2024
+  - hyo-yeon-lee/Language-Evolution-Modelling-with-ILM/al-folio
+  - hyo-yeon-lee/Correctness-guided-Code-Generation-with-LLM
+  - hyo-yeon-lee/COMS30083
+  - hyo-yeon-lee/AutomatedSocialMedia
+  - hyo-yeon-lee/GameJam2024
+  - hyo-yeon-lee/CG2024

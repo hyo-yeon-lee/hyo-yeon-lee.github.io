@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Exploration of Semi-Supervised ILM for Visual Meanings
 description: with background image
 img: assets/img/12.jpg
 importance: 1
