@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-08 
+date: 2026-03-08 
 inline: true
 related_posts: false
 ---
 
-I made a poster presentation at ALife 2025 about ILM language transmission experiment on visual stimuli.
+I accepted an offer to Max Planck School of Cognition doctoral programme as a fast-track candidate.

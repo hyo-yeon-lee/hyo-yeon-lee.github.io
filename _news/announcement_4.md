@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-15 
+date: 2025-08-01 
 inline: true
 related_posts: false
 ---
 
-I graduated the University of Bristol with a First Class Honours in BSc Computer Science.
+I started working as a Research Assistant Intern in Sony Computer Science Labs in Kyoto, Japan.
