@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-08-01
+date: 2026-03-09
 inline: true
 related_posts: false
 ---
 
-I started working as a Research Assistant Intern in Sony Computer Science Labs in Kyoto, Japan.
+I started working as a Research Intern in CSNL lab at the Seoul National University.
