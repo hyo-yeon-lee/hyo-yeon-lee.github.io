@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-08 
+date: 2025-07-15 
 inline: true
 related_posts: false
 ---
 
-I made a poster presentation at ALife 2025 about ILM language transmission experiment on visual stimuli.
+I graduated the University of Bristol with a First Class Honours in BSc Computer Science.
